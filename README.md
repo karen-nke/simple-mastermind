@@ -35,5 +35,7 @@ Please key in your guessed color below
 
 <img width="715" alt="Screenshot 2023-10-16 at 5 23 29 PM" src="https://github.com/karen-nke/simple-mastermind/assets/103889430/5c854ece-f1ff-4a8e-9690-79a69c161849">
 
+_Coursework for CSC1024 Programming Principle (August 2020 - December 2020)_
+
 
 
